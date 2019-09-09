@@ -1,0 +1,14 @@
+.heading2 {
+  background: red;
+}
+.heading2 span {
+  color: green;
+}
+.heading {
+  color: red;
+}
+.heading span {
+  background: green;
+  font-size: 1em;
+}
+/*# sourceMappingURL=style.css.map */
